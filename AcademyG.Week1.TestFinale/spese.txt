@@ -1,0 +1,4 @@
+Data;Categoria;Descrizione;Importo
+2021/09/09;Alloggio;quattro notti in hotel lusso;720
+2021/09/09;Vitto;pranzo al ristorante;35
+2021/07/11;Viaggio;Trasferta due settimane;4200			
